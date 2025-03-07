@@ -1,0 +1,10 @@
+.mainFrame {
+    height: 100dvh;
+}
+
+.black_box {
+    box-sizing: border-box;
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+}
